@@ -124,14 +124,6 @@ Este comando analizará:
 3. Servicios en ejecución y puertos abiertos
 4. Configuraciones de seguridad básicas
 
-## Capturas de Pantalla
-
-![Escaneo de Sistema](https://via.placeholder.com/600x300?text=Escaneo+de+Sistema)
-*Ejemplo de escaneo de sistema local*
-
-![Análisis OSINT](https://via.placeholder.com/600x300?text=Análisis+OSINT)
-*Ejemplo de recolección de información OSINT*
-
 ## Limitaciones
 
 - El análisis de vulnerabilidades se basa en detecciones de versión y no realiza comprobaciones de explotación.
