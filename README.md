@@ -1,7 +1,5 @@
 # VulnOSINT Scanner v1.0
 
-![Banner VulnOSINT Scanner](https://via.placeholder.com/800x200?text=VulnOSINT+Scanner)
-
 ## Desarrollador
 Christian Duran
 
